@@ -1,7 +1,7 @@
 # Gender Classification with DeepFace and MediaPipe 🧠📸
 
 This project uses **DeepFace** and **MediaPipe** to detect human faces from a webcam feed and classify them as **male** or **female**, while also displaying a real-time count of detected genders on screen.
-
+This is very latest just download some library yolo,mediapipe and u are good to go:)
 ---
 
 ## 🔍 Features
